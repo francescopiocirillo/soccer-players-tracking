@@ -8,6 +8,14 @@ Developed for the **Artificial Vision (MSc in Computer Engineering)** course at 
 
 > Demonstrates practical experience in deep learning, multi-object tracking, re-identification, camera motion compensation and performance-driven experimental design.
 
+* * *
+
+📸 System Overview Snapshot
+---------------------------
+
+
+https://github.com/user-attachments/assets/5996374a-c95f-4319-a4a7-bcc40bbd1adb
+
 ---
 
 ## 📌 Overview
@@ -24,16 +32,6 @@ The system was tested on the official **SoccerNet Tracking 2023 dataset** and ev
 
 Full technical details are available in:  
 📄 `1 - Documentazione_Artificial_Vision_Cirillo_Fasolino.pdf`
-
-* * *
-
-📸 System Overview Snapshot
----------------------------
-
-
-https://github.com/user-attachments/assets/5996374a-c95f-4319-a4a7-bcc40bbd1adb
-
-
 
 * * *
 
